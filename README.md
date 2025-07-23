@@ -1,6 +1,6 @@
 # Ejercicios clase23-FS
 
-*A partir de la base de datos suministrada y mediante DQL. Hacer las consultas (queries) necesarias para responder las siguientes preguntas:
+A partir de la base de datos suministrada y mediante DQL. Hacer las consultas (queries) necesarias para responder las siguientes preguntas:
 
 1) ¿Cuántas tiendas (store) hay en total?
 2) ¿Cuántas películas (film) tienen una duración de más de 120 minutos?
