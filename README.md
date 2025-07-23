@@ -8,6 +8,7 @@ A partir de la base de datos suministrada y mediante DQL. Hacer las consultas (q
 4) ¿Cuál es el ID de la película (film) que tiene un ID de inventario (inventory) 303?
 5) ¿Cuál es la dirección (address) y distrito (district) de la persona cuyo teléfono es 634445428822?
 
+--------
 
 1) hay 2 tiendas
 2) hay 457 films que tienen una duración de más de 120 mins
