@@ -15,3 +15,7 @@ A partir de la base de datos suministrada y mediante DQL. Hacer las consultas (q
 3) el cliente 472 realizó 26 pagos
 4) 68 es el ID de la películaque tiene un ID de inventario 303
 5) es "1565 Tangail Manor, Okinawa" la dirección y distrito de la persona cuyo teléfono es 634445428822
+
+*****
+obs:
+SELECT COUNT (*) AS name
